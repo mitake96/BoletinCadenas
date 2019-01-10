@@ -1,14 +1,16 @@
 package Ejercicios;
 
+import static Ejercicios.Keyboard1.*;
+
 public class Ejercicio1 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
-		double cuentas []; // ejemplo creacion array
+		String x;
 		
-		
-		System.out.println(texto1);
+		System.out.println();
+		x=lecturaString();
 	}
 
 }
